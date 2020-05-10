@@ -1,0 +1,23 @@
+{
+  "name": "f_diary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^3.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayashiseiya/f_diary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hayashiseiya/f_diary/issues"
+  },
+  "homepage": "https://github.com/hayashiseiya/f_diary#readme"
+}
